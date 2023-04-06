@@ -48,9 +48,9 @@ for(let i=0; i<posts.length; i++) {
 
                 <div class="section-footer">
                     <div class="logo">
-                        <img class="icon-img" src="images/icon-heart.png">
-                        <img class="icon-img" src="images/icon-comment.png">
-                        <img class="icon-img" src="images/icon-dm.png">
+                        <img class="icon-img" src="icon-heart.png">
+                        <img class="icon-img" src="icon-comment.png">
+                        <img class="icon-img" src="icon-dm.png">
                     </div>
                     <p class="likes"><span>${posts[i].likes} likes</p></span><p>
                     <p><span>${posts[i].username}</span> ${posts[i].comment}</p>
